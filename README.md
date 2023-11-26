@@ -5,7 +5,7 @@ ___
 
 ###### Deployed at: https://mellifluous-taffy-5e19bb.netlify.app
 ___
-![image](../Frontend/src/Assets/screen5.png)
+![image](src/Frontend/src/Assets/screen5.png)
 ___
 ####Features
 
