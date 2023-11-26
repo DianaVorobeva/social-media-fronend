@@ -26,7 +26,7 @@ ___
 ___
 ####Screenshots
 <p align="center">
- <img width="400px" src="../Frontend/src/Assets/screen1.png" alt="qr"/>
+ <img width="400px" src="src/Assets/screen1.png" alt="qr"/>
   </p>
     <p align="center">
  <img width="400px" src="../Frontend/src/Assets/screen4.png" alt="qr"/>
