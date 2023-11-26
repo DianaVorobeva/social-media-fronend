@@ -7,7 +7,7 @@ ___
 ___
 ![image](src/Assets/screen5.png)
 ___
-####Features
+#####Features
 
 - Register and login users using JWT for authentication
 - Post images can be uploaded using file system
@@ -36,7 +36,7 @@ ___
   </p>
 ___
 
-#####What you need to run this code
+######What you need to run this code
 Node (18.14.2)
 NPM (9.5.0)
 MongoDB 
