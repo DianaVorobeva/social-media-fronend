@@ -25,9 +25,15 @@ ___
 - Fully responsive layout
 ___
 ####Screenshots
-![image](../Frontend/src/Assets/screen1.png)
-![image](../Frontend/src/Assets/screen4.png)\
-![image](../Frontend/src/Assets/screen3.png)
+<p align="center">
+ <img width="400px" src="../Frontend/src/Assets/screen1.png" alt="qr"/>
+  </p>
+    <p align="center">
+ <img width="400px" src="../Frontend/src/Assets/screen4.png" alt="qr"/>
+  </p>
+    <p align="center">
+ <img width="400px" src="../Frontend/src/Assets/screen3.png" alt="qr"/>
+  </p>
 ___
 
 #####What you need to run this code
