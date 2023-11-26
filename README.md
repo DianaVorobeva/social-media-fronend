@@ -5,7 +5,7 @@ ___
 
 ###### Deployed at: https://mellifluous-taffy-5e19bb.netlify.app
 ___
-![image](src/Frontend/src/Assets/screen5.png)
+![image](src/Assets/screen5.png)
 ___
 ####Features
 
@@ -29,10 +29,10 @@ ___
  <img width="400px" src="src/Assets/screen1.png" alt="qr"/>
   </p>
     <p align="center">
- <img width="400px" src="../Frontend/src/Assets/screen4.png" alt="qr"/>
+ <img width="400px" src="src/Assets/screen4.png" alt="qr"/>
   </p>
     <p align="center">
- <img width="400px" src="../Frontend/src/Assets/screen3.png" alt="qr"/>
+ <img width="400px" src="src/Assets/screen3.png" alt="qr"/>
   </p>
 ___
 
